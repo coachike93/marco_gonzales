@@ -2,7 +2,7 @@
 
 This contains the data and code behind a deep dive article into Marco Gonzales's 2020 performance and 2021 outlook. In particular, each program dives into a different topic:
 
-00_: data import and package set up
+00_: data import and package set up \n
 01_: wins analysis and similar pitchers
 02_: hr indicators gb rate and hard-hit fb/ld rate
 03_: velo time!
