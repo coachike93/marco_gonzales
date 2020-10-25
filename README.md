@@ -1,4 +1,4 @@
-# marco_gonzales
+# Marco Gonzales Deep Dive code
 
 This contains the data and code behind a deep dive article into Marco Gonzales's 2020 performance and 2021 outlook. In particular, each program dives into a different topic:  
   
